@@ -1,0 +1,1 @@
+"B:\UnrealEngine\Engine\UE_5.1\Engine\Binaries\Win64\UnrealEditor.exe" "B:\UnrealEngine\Projects\Remote\UnrealNetworkSandbox\NetworkSandbox.uproject" -game -ResX=1280 -ResY=720 -NoVSync -log -WINDOWED
